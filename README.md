@@ -1,2 +1,2 @@
 # Indoor-Smart-Glasses
-Indoor Smart Glasses Research with Penkova
+Indoor Smart Glasses Research with Prof. Penkova
