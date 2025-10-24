@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "id": "address-1",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.5415, 25.0345]
+    },
+    "properties": {
+      "address": "1338 Los Angeles, CA",
+      "country_code": "US"
+    }
+  }]
+}
+

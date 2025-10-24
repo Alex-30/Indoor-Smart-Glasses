@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "id": "anchor-1",
+    "geometry": { "type": "Point", "coordinates": [20, 0] },
+    "properties": {
+      "level_id": "level-1",
+      "name": "Main Entrance"
+    }
+  }]
+}
+

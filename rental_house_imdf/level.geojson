@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "level-1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 0], [24, 0], [24, 13], [0, 13], [0, 0]]]
+      },
+      "properties": {
+        "building_id": "building-1",
+        "ordinal": 1,
+        "name": "1F"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "level-2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 0], [24, 0], [24, 78], [0, 78], [0, 0]]]
+      },
+      "properties": {
+        "building_id": "building-1",
+        "ordinal": 2,
+        "name": "2F"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "level-3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 0], [24, 0], [24, 78], [0, 78], [0, 0]]]
+      },
+      "properties": {
+        "building_id": "building-1",
+        "ordinal": 3,
+        "name": "3F"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "level-4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 0], [24, 0], [24, 78], [0, 78], [0, 0]]]
+      },
+      "properties": {
+        "building_id": "building-1",
+        "ordinal": 4,
+        "name": "4F"
+      }
+    }
+  ]
+}

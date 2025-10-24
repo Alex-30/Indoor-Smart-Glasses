@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "transition-1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0, 0],
+            [18, 0],
+            [18, 12],
+            [0, 12],
+            [0, 0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Main Staircase",
+        "category": "stairs",
+        "level_ids": ["level-1", "level-2", "level-3", "level-4"]
+      }
+    }
+  ]
+}
+

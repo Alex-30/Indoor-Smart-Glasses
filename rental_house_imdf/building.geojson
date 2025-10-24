@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "id": "building-1",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[0, 0], [24, 0], [24, 78], [0, 78], [0, 0]]]
+    },
+    "properties": {
+      "name": "Main Building",
+      "venue_id": "venue-1"
+    }
+  }]
+}

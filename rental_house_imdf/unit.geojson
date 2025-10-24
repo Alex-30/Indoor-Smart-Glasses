@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "unit-1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[17, 0], [17, 13], [24, 13], [24, 0], [17, 0]]]
+      },
+      "properties": {
+        "level_id": "level-1",
+        "name": "corridor-1",
+        "category": "corridor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [24, 60], [24, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-2",
+        "name": "Bedroom-201",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [7, 60], [7, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-2",
+        "name": "Bathroom-201",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 42], [18, 42], [18, 60], [0, 60], [0, 42]]]
+      },
+      "properties": {
+        "level_id": "level-2",
+        "name": "living",
+        "category": "living"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 12], [18, 12], [18, 42], [0, 42], [0, 12]]]
+      },
+      "properties": {
+        "level_id": "level-2",
+        "name": "kitchen",
+        "category": "kitchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18, 0], [24, 0], [24, 60], [18, 60], [18, 0]]]
+      },
+      "properties": {
+        "level_id": "level-2",
+        "name": "corridor-2",
+        "category": "corridor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18, 0], [24, 0], [24, 60], [18, 60], [18, 0]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "corridor-3",
+        "category": "corridor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-8",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 12], [18, 12], [18, 36], [0, 36], [0, 12]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bedroom-301",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-9",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 27], [18, 27], [18, 36], [0, 36], [0, 27]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bathroom-301",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-10",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 36], [18, 36], [18, 60], [0, 60], [0, 36]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bedroom-302",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-11",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 36], [18, 36], [18, 43], [0, 43], [0, 36]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bathroom-302",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-12",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [24, 60], [24, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bedroom-303",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-13",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [7, 60], [7, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-3",
+        "name": "bathroom-303",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-14",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18, 0], [24, 0], [24, 60], [18, 60], [18, 0]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "corridor-4",
+        "category": "corridor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-15",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 12], [18, 12], [18, 36], [0, 36], [0, 12]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bedroom-401",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-16",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 27], [18, 27], [18, 36], [0, 36], [0, 27]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bathroom-401",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-17",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 36], [18, 36], [18, 60], [0, 60], [0, 36]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bedroom-402",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-18",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 36], [18, 36], [18, 43], [0, 43], [0, 36]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bathroom-402",
+        "category": "restroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-19",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [24, 60], [24, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bedroom-403",
+        "category": "room"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "unit-20",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 60], [7, 60], [7, 78], [0, 78], [0, 60]]]
+      },
+      "properties": {
+        "level_id": "level-4",
+        "name": "bathroom-403",
+        "category": "restroom"
+      }
+    }
+  ]
+}
+
